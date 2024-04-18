@@ -95,7 +95,7 @@ impl<T> LinkedList<T> {
     }
 }
 
-// Example usage
+
 fn main() {
     let mut list = LinkedList::new();
     list.insert(9);
